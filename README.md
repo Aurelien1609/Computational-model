@@ -1,7 +1,7 @@
-# Computational-model
+# Computational model
 
 I study cognitive science at university of bordeaux and I work in the Mnemosyne Team at IMN (Institut of Neurodegenerative Diseases).
 
-My work focuses on the development of computational model of the globus pallidus in the anesthesided mice.
+My work focuses on the development of computational model of the globus pallidus and the striatum in the anesthesided mice.
 
-In this repositories, I try to simulate two neuronal networks : striatal and pallidal neurons with DANA and Brian which are various ways of modeling neurons.
+In this repositories, I try to simulate differents neuronal networks, based on Lapicque equation. We have a spikes model and a frequency model. In additional, I developped sames model with neural fields theory. 
