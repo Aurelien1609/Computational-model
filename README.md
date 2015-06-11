@@ -8,3 +8,8 @@ My work focuses on the development of computational model of the globus pallidus
 In this repositories, I try to simulate differents neuronal networks, based on Lapicque equation. We have a spikes model and a frequency model. In additional, I developped sames models with neural fields theory. 
 
 Code tested with :
+Python 2.7.9
+Numpy 1.9.1
+Scipy 0.14.1
+Brian 1.4.1
+Dana 0.5.1
